@@ -3,8 +3,6 @@
 ----
 # :crystal_ball: Overview 
 
-![](https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png | height=150)
-
 React.JS is a frontend framework that utilizes a virtual DOM and JSX to build component based UI. 
 
 React is an open source javascript library developed internally at Facebook to build scalable UIs - the internal tagline was "build once, use everywhere." Components are built to be reused, and also scale to mobile via React Native.
@@ -52,14 +50,15 @@ React is a **Frontend Framework** - what does that even mean?
 ---
 # Class Based Components vs Functional Components
 
-|
-:-------------------------:|:-------------------------:
-![](class_based_components.png)  | ![](functional_components.png)
+With the release of React 16.8, there are now two ways to declare components in React: Class Based or Functionaly.
 
-React projects nowadays can come in two styles:
-- Class Based Components: How components were written pre-release of hooks and functional components in React 16.8. 
-- Functional Components: Components declared in function declerations; able to use hooks. Introduced in 2018, popular adoption started Spring 2019. 
+Most major updates to languages or frameworks take multiple years for popular adoption to start, but with React, because the update was easy to implement and a substantial improvement in preformance/readability, popular adoption started almost imediately. 
 
+Class Based Component | Functional Component
+--- | ---
+![Class Based Component Example](class_based_component.png) | ![Functional Component Example](functional_component.png)
+How components were written pre-release of hooks and functional components in React 16.8. |  Components declared in function declerations; able to use hooks. Introduced in 2018, popular adoption started Spring 2019.
+ 
 ---
 # Vocab List
 
