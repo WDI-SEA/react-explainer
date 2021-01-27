@@ -54,6 +54,8 @@ With the release of React 16.8, there are now two ways to declare components in 
 
 Most major updates to languages or frameworks take multiple years for popular adoption to start, but with React, because the update was easy to implement and a substantial improvement in preformance/readability, popular adoption started almost imediately. 
 
+This means a lot of companies are actively udating their React codebases to use functional components from class based ones; others continue to use class based components, and other, still, started with functional components entirely. 
+
 Class Based Component | Functional Component
 --- | ---
 ![Class Based Component Example](class_based_component.png) | ![Functional Component Example](functional_component.png)
@@ -62,7 +64,15 @@ How components were written pre-release of hooks and functional components in Re
 ---
 # Vocab List
 
-3. Introduce the vocab list of all words, concepts, ideas we will learn from react
+Learning React, like any new computer science topic, involves learning a lot of new vocabulary. 
+
+| Term  |      Definition     |  Notes |
+|----------|:-------------:|------:|
+| Virtual DOM |  |  |
+| Component |      |  |
+| JSX |  |    |
+
+
 ---
 # Extra Resources
 Quick hit of extra resources for those interested in learning more about React (both the technical and the non-technical):
