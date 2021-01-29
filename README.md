@@ -77,3 +77,5 @@ Learning React, like any new computer science topic, involves learning a lot of 
 # Extra Resources
 Quick hit of extra resources for those interested in learning more about React (both the technical and the non-technical):
 - Mini-look at the current React team at Facebook: https://react.christmas/2020/24
+- React docs: https://reactjs.org/docs/getting-started.html
+- Remember, React is open-source. Check out the React Github: https://github.com/facebook/react
