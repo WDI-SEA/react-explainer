@@ -3,7 +3,7 @@
 ----
 # :crystal_ball: Overview 
 
-React.JS is a frontend framework that utilizes a virtual DOM and JSX to build component based UI. 
+React.JS is a frontend framework that utilizes a virtual DOM and JSX to build a component based UI. 
 
 React is an open source javascript library developed internally at Facebook to build scalable UIs - the internal tagline was "build once, use everywhere." Components are built to be reused, and also scale to mobile via React Native.
 
