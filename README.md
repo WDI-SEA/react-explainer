@@ -50,11 +50,11 @@ React is a **Frontend Framework** - what does that even mean?
 ---
 # Class Based Components vs Functional Components
 
-With the release of React 16.8, there are now two ways to declare components in React: Class Based or Functionaly.
+With the release of React 16.8, there are now two ways to declare components in React: Class Based or Functionally.
 
 Most major updates to languages or frameworks take multiple years for popular adoption to start, but with React, because the update was easy to implement and a substantial improvement in preformance/readability, popular adoption started almost imediately. 
 
-This means a lot of companies are actively udating their React codebases to use functional components from class based ones; others continue to use class based components, and other, still, started with functional components entirely. 
+This means a lot of companies are actively updating their React codebases to use functional components from class based ones; others continue to use class based components, and others, still, started with functional components entirely. 
 
 Class Based Component | Functional Component
 --- | ---
