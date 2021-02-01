@@ -62,18 +62,6 @@ Class Based Component | Functional Component
 How components were written pre-release of hooks and functional components in React 16.8. |  Components declared in function declerations; able to use hooks. Introduced in 2018, popular adoption started Spring 2019.
  
 ---
-# Vocab List
-
-Learning React, like any new computer science topic, involves learning a lot of new vocabulary. 
-
-| Term  |      Definition     |  Notes |
-|----------|:-------------:|------:|
-| Virtual DOM |  |  |
-| Component |      |  |
-| JSX |  |    |
-
-
----
 # Extra Resources
 Quick hit of extra resources for those interested in learning more about React (both the technical and the non-technical):
 - Mini-look at the current React team at Facebook: https://react.christmas/2020/24
